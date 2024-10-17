@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private LinearLayout linMain;
     private SensorManager sm;
     private Sensor sensor;
-    private SensorEventListener SEL;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
